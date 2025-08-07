@@ -1,0 +1,22 @@
+# ---- Python basics -------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual environments -----------------------------------------
+venv/
+.env/
+.env*/
+launch.txt
+
+# ---- OS / editor cruft --------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
