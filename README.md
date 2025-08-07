@@ -71,5 +71,5 @@ Authenticated mirrors – add --user --password flags in downloader.py
 
 Pure-Python crawler – replace the wget2 command with your own requests + BeautifulSoup walk
 
-License
-MIT – see LICENSE for details.
+
+License MIT © 2025 Tiān Jié Héng Feel free to fork, and fuck off! :)
